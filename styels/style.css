@@ -21,14 +21,12 @@ nav {
     display: flex;
     justify-content:space-around;
     align-items: center;
-    
-
 }
 nav img{
     width: 50px;
     height: 51px;
     position: relative;
-    align-items: center;
+    margin-top: 10px;
 }
 nav a {
     text-decoration: none;
